@@ -1,0 +1,14 @@
+.select2-container--default .select2-selection--multiple{
+    border: 1px solid #ebedf2;
+    border-radius: 0;
+}
+.select2-container{
+    width: 100% !important;
+}
+
+.table th img, .table td img{
+    width: 45px;
+    height: 45px;
+    border-radius: 0;
+}
+
